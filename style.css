@@ -345,3 +345,7 @@ body {
 .blue-text {
     color: #363D73;
 }
+
+#facebook:hover{
+    background-color: #ea00ff;
+}
